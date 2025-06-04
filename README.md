@@ -59,18 +59,6 @@ To simulate:
 
 ---
 
-## 🖼️ Simulation Output (Waveform Screenshot)
-
-```
-![Simulation Screenshot](screenshots/Screenshot (265).png)
-
-
-
-```
-
-
-
----
 
 ## 📄 Full Report: Implementation Challenges
 
