@@ -1,0 +1,15 @@
+# Vivado junk files
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.runs/
+*.webtalk/
+*.data/
+*.tmp/
+*.vivado/
